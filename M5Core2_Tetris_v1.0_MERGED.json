@@ -1,0 +1,12 @@
+{
+  "name": "Core2 Tetris - First Ever!",
+  "version": "1.0",
+  "description": "The FIRST Tetris game for M5Stack Core2! Revolutionary boundary-based touch controls: TAP inside game field to rotate, HOLD for soft drop. Touch outside edges to move. Features 20% wider gameplay, thick colorful borders, hold piece functionality, hard drop, and intuitive gesture controls. Perfected through extensive testing for the ultimate mobile tetris experience.",
+  "author": "CoreyMillia",
+  "category": "Games",
+  "file": "M5Core2_Tetris_v1.0_MERGED.bin",
+  "bootloader": "0x1000",
+  "partition": "0x8000", 
+  "app": "0x10000",
+  "chip": "esp32"
+}
