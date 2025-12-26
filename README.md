@@ -12,11 +12,11 @@ A classic Tetris game adapted for the M5Stack Core2 with touch screen controls.
   - Lock delay system
 
 - Touch-based controls optimized for M5Core2:
-  - **Left side tap**: Move piece left
-  - **Right side tap**: Move piece right  
+  - **Left side tap or hold**: Move piece left
+  - **Right side tap or hold**: Move piece right  
   - **Center tap**: Rotate piece
-  - **Bottom area touch**: Soft drop
-  - **Swipe down**: Hard drop
+  - **Hold gameplay area**: Soft drop
+  - **Swipe UP**: Hard drop
   - **Button A**: Hold piece
 
 - Enhanced display:
